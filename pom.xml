@@ -138,6 +138,11 @@
 	</dependency>
 	
 	</dependencies>
+	<properties>
+  <sonar.projectKey>dishanksaxenagenpact_shop</sonar.projectKey>
+  <sonar.organization>dishanksaxenagenpact</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 	<build>
 		<finalName>shopieasy</finalName>
 	</build>
